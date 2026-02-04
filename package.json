@@ -1,0 +1,20 @@
+{
+  "name": "agent-erp-sync",
+  "version": "1.0.0",
+  "description": "Agente de teste para sincronização ERP com backend web",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "keywords": [
+    "erp",
+    "sync",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
